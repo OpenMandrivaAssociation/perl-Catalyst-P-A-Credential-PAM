@@ -21,6 +21,7 @@ BuildRequires:	perl(Authen::PAM)
 BuildRequires:	perl(Catalyst)
 Provides:	perl-%{realname}
 BuildArch:	noarch
+Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 This is an authentication credential checker that verifies passwords
