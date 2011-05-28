@@ -4,7 +4,7 @@
 %define	modprefix Catalyst
 
 %define version	0.01
-%define release	%mkrel 7
+%define release	%mkrel 8
 
 Summary:	Authenticate a user against PAM
 Name:		%{name}
