@@ -5,7 +5,7 @@
 Summary:	Authenticate a user against PAM
 Name:		perl-%{abbrevname}
 Version:	0.01
-Release:	9
+Release:	10
 License:	Artistic/GPL
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{realname}/
