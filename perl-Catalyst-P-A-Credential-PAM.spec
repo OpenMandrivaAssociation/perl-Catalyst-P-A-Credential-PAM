@@ -10,6 +10,7 @@ License:	Artistic/GPL
 Group:		Development/Perl
 URL:		https://search.cpan.org/dist/%{realname}/
 Source:		ftp://ftp.perl.org/pub/CPAN/modules/by-module/%{modprefix}/%{realname}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(Authen::PAM)
 BuildRequires:	perl(Catalyst)
